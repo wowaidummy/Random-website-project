@@ -5,4 +5,5 @@ In this project you will see a webpage in which I first fetch a photo from NASA'
 you can also refresh the page by the refresh button on the bottom which will fetch a new photo (or the same photo sometimes).
 
 to test this simply go to: https://nasaarticles.vercel.app/
-if you want to run locally, just download this repo and run "npm run dev" in the terminal of this folder and head to local host
+if you want to run locally, just download this repo and run "npm run dev" in the terminal of this folder and you can see it live in action.
+thanks
